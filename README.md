@@ -35,3 +35,8 @@ The `project.zip` archive contains:
 ## Author
 
 Ali Mirzaabolhassani
+
+
+## Circuit
+
+![Proteus schematic](images/schematic.png)
