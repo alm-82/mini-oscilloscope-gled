@@ -32,12 +32,6 @@ The `project.zip` archive contains:
 5. Set **Processor Clock Frequency** to **8 MHz**.
 6. Start the simulation.
 
-## Current Status and Limitations
-
-The firmware loads and the simulation runs. The GLCD draws the sampled input, but a clean waveform display has not yet been verified.
-
-This is an educational prototype. Calibrated voltage and time scales, triggering, and measurement accuracy have not been established.
-
 ## Author
 
 Ali Mirzaabolhassani
